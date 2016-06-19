@@ -373,9 +373,6 @@ h1.post-title {
 /* remake homepage */
 
 
-#content.hp{background: transparent}
-.rightblock{color:#444;text-align:left}
-.rightblock b, .rightblock strong, .rightblock a {color: #555}
 
 @media (min-width: 770px) {
 	#heading {
